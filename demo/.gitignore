@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Outros arquivos que você não quer subir
+demo/src/main/java/com/example/demo/controller/HomeController.java
+demo/src/main/resources/static/
